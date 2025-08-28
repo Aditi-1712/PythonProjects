@@ -1,0 +1,13 @@
+# Python-Projects
+# Project1
+
+# Project Overview
+This project takes input from the user and generates sentences with correct punctuations. This is done by creating a function which takes in the input provided and uses the python builtin functions to capitalise the first letter of every sentence, furthermore, it adds a '.' or '?' depending on the sentence. A loop is introduced to ask the user for an input. If the user doesn't wish to provide another input, they can simply end the program by writing '\end'. This will display the output and end the program. 
+
+# Getting Started
+Ensure you have the latest version of python3 installed. You can install it from https://www.python.org/downloads/.
+
+# Usage Instructions
+Run the program : python3 SentenceMaker.py
+End the loop once the program has started: '\end'
+
